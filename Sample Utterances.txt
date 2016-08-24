@@ -1,0 +1,4 @@
+readFeedIntent read my feed
+readFeedIntent get my feed
+
+writePostIntent write a post 
