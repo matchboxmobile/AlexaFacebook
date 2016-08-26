@@ -6,6 +6,7 @@ This is a basic tutorial on how to link a Facebook account to an Alexa skill usi
 Make sure you have [Node.js](https://nodejs.org/en/) installed
 
 git clone https://github.com/matchboxmobile/AlexaFacebook.git 
+
 cd AlexaFacebook
 
 npm install alexa-sdk
