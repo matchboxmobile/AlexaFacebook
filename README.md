@@ -1,4 +1,4 @@
-# AlexaFacebook
+# Account linking with Alexa to Facebook
 
 This is a basic tutorial on how to link a Facebook account to an Alexa skill using Amazon Account linking.
 
@@ -9,6 +9,7 @@ git clone https://github.com/matchboxmobile/AlexaFacebook.git
 cd AlexaFacebook
 
 npm install alexa-sdk
+
 npm install facebook-node
 
 ## How to run it?
