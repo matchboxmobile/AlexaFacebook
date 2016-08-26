@@ -1,0 +1,25 @@
+{
+  "name": "alexa-facebook",
+  "version": "0.0.1",
+  "description": "A sample project to show how to connect Facebook to Alex",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.5",
+    "facebook-node": "0.0.3",
+    "tiny-facebook-wrapper": "0.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matchboxmobile/AlexaFacebook.git"
+  },
+  "author": "Matchbox Mobile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matchboxmobile/AlexaFacebook/issues"
+  },
+  "homepage": "https://github.com/matchboxmobile/AlexaFacebook#readme"
+}
